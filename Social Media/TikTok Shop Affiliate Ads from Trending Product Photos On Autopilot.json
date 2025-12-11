@@ -1272,7 +1272,7 @@
             {
               "id": "4e9ba06c-c4fe-420b-a86e-80b6065fb8fa",
               "name": "URL",
-              "value": "=https://api.telegram.org/file/bot8331796757:AAGSb_cMjEMT5SXgcq2PbCjl2a8WPWeCG1Y/{{ $('Get a file').item.json.result.file_path }}",
+              "value": "=https://api.telegram.org/file/bot(your_bot_token)/{{ $('Get a file').item.json.result.file_path }}",
               "type": "string"
             },
             {
