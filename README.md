@@ -1,4 +1,4 @@
-# n8n Templates
+# XO N8N Templates
 
 This repository contains a collection of powerful n8n workflow templates designed to automate various business processes. These templates leverage AI and automation to streamline operations across customer support, lead generation, and social media management.
 
